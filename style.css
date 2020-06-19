@@ -1,0 +1,32 @@
+.img-1{
+    height:100vh;
+    width:100%;
+}
+body{
+    margin:0;
+}
+.heading-1{
+    margin:0;
+    font-family: 'Staatliches', cursive;
+}
+.heading-2{
+    float:right;
+    position: relative;;
+    bottom:60px;
+    margin-right:500px;
+    font-family: 'Staatliches', cursive;
+}
+.heading-3{
+    float:right;
+    position: relative;
+    bottom:130px;
+    margin-right: 20px;
+    font-family: 'Staatliches', cursive;
+}
+.home{
+    color:black;
+}
+.home:hover{
+    background-color: black;
+    color:white;
+}
